@@ -1,10 +1,3 @@
----
-title: "Code_Book"
-author: "Jared"
-date: "July 9, 2016"
-output: html_document
----
-
 
 
 # Code Book: Week 4 Getting And Cleaning Data Course Project
