@@ -1,6 +1,6 @@
 ---
 title: "Code_Book"
-author: "Jared Dirghalli"
+author: "Jared"
 date: "July 9, 2016"
 output: html_document
 ---
