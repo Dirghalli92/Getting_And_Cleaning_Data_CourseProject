@@ -21,20 +21,20 @@ Description of information provided in Data-Set
 
 1. Reads & Writes tables from the downloaded .zip file utilizing the following files:
 
-- features.txt
-- activity_labels.txt
-- subject_train.txt
-- x_train.txt
-- y_train.txt
-- subject_test.txt
-- x_test.txt
-- y_test.txt
+* features.txt
+* activity_labels.txt
+* subject_train.txt
+* x_train.txt
+* y_train.txt
+* subject_test.txt
+* x_test.txt
+* y_test.txt
 
-2. Combines train/test data-sets into respective variables:
+3. Combines train/test data-sets into respective variables:
 
--subject
--activity
--features
+*subject
+*-activity
+*features
 
 3. Assigns column names and merge to create one data set
 
@@ -45,7 +45,7 @@ Description of information provided in Data-Set
 6. Restructures Syntax for Clarity while reading using logical syntax as well as removing superfluous characters
 
 7. As per instructions creates and writes a tidy data 'tidy_data.txt' to working directory
-- Tidy data set contains only the average for each variable, of each activity, for each subject
+* Tidy data set contains only the average for each variable, of each activity, for each subject
 
 
 
