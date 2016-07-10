@@ -1,7 +1,7 @@
 
 
 # Code Book: Week 4 Getting And Cleaning Data Course Project
-Contains Additional Information regarding Data-Set used in course project
+Contains Additional Information regarding Data-Set used in course project.
 Further details can be found in the readme.txt file located in the following download (Note this includes complete data set as well):
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
