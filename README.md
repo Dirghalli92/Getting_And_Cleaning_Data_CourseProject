@@ -7,3 +7,8 @@ The script "run_analysis.R" processes a specific data-set while executing the fo
 3. Sets up descriptive names for activities in the data-set
 4. Appropriately labels the data set with descriptive variable names
 5. Writes an independent, tidy data 'tidy_data.txt' set with the average of each variable for each activity and each subject.
+
+
+
+
+For more information regarding variables & the Data-set see the Code_Book file
