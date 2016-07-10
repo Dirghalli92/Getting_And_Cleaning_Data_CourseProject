@@ -1,4 +1,4 @@
-Variable Description from Data-Set Created by:
+Additional Information and Variable Description regarding the Data-Set uesd in "run_analysis.R". Descriptoin Created by:
 
 ==================================================================
 Human Activity Recognition Using Smartphones Dataset
