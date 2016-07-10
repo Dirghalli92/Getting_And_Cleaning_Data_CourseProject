@@ -11,4 +11,4 @@ The script "run_analysis.R" processes a specific data-set while executing the fo
 
 
 
-For more information regarding variables & the Data-set see the Code_Book file
+For more information regarding variables & the Data-Set see the Code_Book file
